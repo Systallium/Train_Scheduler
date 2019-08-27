@@ -1,0 +1,16 @@
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
+
+.jumbotron{
+	background-color: gray;
+	color: #eeeecc;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
